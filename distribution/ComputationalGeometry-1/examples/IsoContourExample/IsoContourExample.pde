@@ -1,10 +1,5 @@
 /*-----------------------------------
-Library: ComputationalGeometry
-By: Mark Collins & Toru Hasegawa
 Example: IsoContour
-
-Creates a 2D isometric contour, 
-based on a series of random points.
 ------------------------------------*/
 
 import ComputationalGeometry.*;

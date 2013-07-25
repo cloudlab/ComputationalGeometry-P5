@@ -1,11 +1,5 @@
 /*-----------------------------------
-Library: ComputationalGeometry
-By: Mark Collins & Toru Hasegawa
 Example: IsoSurface
-
-Creates a 3D isometric surface based
-on a series of points. Points act
-as meta-ball centers.
 ------------------------------------*/
 
 import ComputationalGeometry.*;
